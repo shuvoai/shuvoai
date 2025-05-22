@@ -54,10 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoai&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoai&layout=compact&theme=tokyonight"/>
-</div>
-
 ### 📈 Comprehensive GitHub Profile Analysis
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvoai&theme=tokyonight" alt="GitHub Profile Summary"/>
